@@ -14,7 +14,7 @@ README.md
 snapshot.schema.json
 ```
 
-The [snapshot schema](snapshot.schema.json) defines the required retained batch-state format. Create the Skill, outputs and checks required by the task, and replace this README with your actual setup, run, replay and handoff instructions while preserving the entry links.
+The [snapshot schema](snapshot.schema.json) defines the required retained batch-state format. Create the Skill, outputs and checks required by the task, and replace this README with your actual setup, run, replay and handoff instructions while preserving the entry links and Interview rule.
 
 ## Before you work
 
