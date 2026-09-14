@@ -23,3 +23,5 @@ No implementation or runtime is supplied; choose and document the dependencies y
 Use [Project D in Work Sim](https://work-sim-alpha.catalyte.ai/s/project-d-travel-expense-claim) for your stakeholder interview and obtain relevant business source links and context there. Read native business sources during each new run and retain the content actually used as the task requires.
 
 **Interview rule.** You conduct the stakeholder interview yourself, and the questions are yours. Do not connect a coding agent or any other AI to the interview to run, script, or automate it. The interview transcript is assessed together with the code; a project whose interview was run by an agent is not scored.
+
+- Export your interview as the original Work Sim JSONL, save one final complete file per session under `interviews/`, and commit and push it with your code. Do not rewrite the export. If JSONL export is unavailable, contact the facilitator.
